@@ -12,3 +12,4 @@ https://www.youtube.com/watch?v=TivyIFF-dzw&t=301s
 
 So lets start with connection the debugger board with the heltec wireless stick.
 
+![debuggerESP32](https://user-images.githubusercontent.com/63347689/125318278-ff40a600-e339-11eb-8fdd-24318ef0a477.PNG)
