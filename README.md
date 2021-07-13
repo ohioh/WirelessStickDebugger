@@ -18,5 +18,9 @@ So lets start with connection the debugger board with the heltec wireless stick.
 Connect to platformIO 
 https://community.platformio.org/t/problem-with-esp-prog-with-espressif-esp32-devkit-must-be-missing-something/13023
 
+platformio.ini documentation:
+https://docs.platformio.org/en/latest/projectconf/index.html#lib-dir
+
+
 PlatformIO debugging documentation:
 https://docs.platformio.org/en/latest/tutorials/espressif32/espidf_debugging_unit_testing_analysis.html
